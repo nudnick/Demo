@@ -1,0 +1,8 @@
+E:\WeatherDemo\WeatherDemo\bin\Debug\WeatherDemo.exe
+E:\WeatherDemo\WeatherDemo\bin\Debug\WeatherDemo.pdb
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.csprojResolveAssemblyReference.cache
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.Form1.resources
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.Properties.Resources.resources
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.csproj.GenerateResource.Cache
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.exe
+E:\WeatherDemo\WeatherDemo\obj\Debug\WeatherDemo.pdb
